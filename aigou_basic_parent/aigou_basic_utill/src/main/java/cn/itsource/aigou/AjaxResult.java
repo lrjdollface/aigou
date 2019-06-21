@@ -3,6 +3,9 @@ package cn.itsource.aigou;
 public class AjaxResult {
     private  boolean success=true;
     private  String msg="操作成功";
+
+
+
     private Object object;//返回的数据封装
 
     //链式编程：
